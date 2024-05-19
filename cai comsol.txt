@@ -1,0 +1,2 @@
+1. chon license file : LMCOMSOL_Multiphysics_SSQ.lic
+2. tat check for update automatically
